@@ -3,6 +3,9 @@ body{
   background-size: cover;
   font-style:italic;
 }
+ul{
+  list-style-type: square;
+}
 h2 {
   color: dodgerblue;
 }
