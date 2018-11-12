@@ -19,9 +19,17 @@ h1.Instagram{
   color: indigo;
   text-align: left;
 }
+h1.Snapchat{
+  color: indigo;
+  text-align: left;
+}
+h1.Facebook{
+  color: indigo;
+  text-align: left;
+}
 h3{
   color: indigo;
 }
-article > section > p{
+p.Text{
   width: 60%;
 }
