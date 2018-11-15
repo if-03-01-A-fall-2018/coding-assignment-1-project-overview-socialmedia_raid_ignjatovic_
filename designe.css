@@ -16,6 +16,7 @@ h1{
   font-weight: 900;
 }
 h1.Instagram{
+  font-size: 50px;
   color: indigo;
   text-align: left;
 }
@@ -27,9 +28,15 @@ h1.Facebook{
   color: indigo;
   text-align: left;
 }
+h1.Twitter{
+  color: indigo;
+  text-align: left;
+}
+
 h3{
   color: indigo;
 }
 p.Text{
-  width: 60%;
+  width: 70%;
+  font-size: 20px;
 }
