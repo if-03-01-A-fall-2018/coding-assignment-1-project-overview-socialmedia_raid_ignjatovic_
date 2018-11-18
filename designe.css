@@ -1,19 +1,19 @@
 body{
   background: url("b.jpg") no-repeat center center fixed;
   background-size: cover;
-  font-style:italic;
+  font-style:sherif;
 }
 ul{
   list-style-type: square;
 }
 h2 {
-  color: dodgerblue;
+  color: indigo;
 }
 h1{
-  font-size: 40px;
+  font-size: 60px;
   text-align: center;
-  color: #0020C2;
-  font-weight: 900;
+  color: indigo;
+  font-weight: 800;
 }
 h1.Instagram{
   font-size: 50px;
@@ -32,11 +32,22 @@ h1.Twitter{
   color: indigo;
   text-align: left;
 }
-
+h1.ProsAndContras{
+  color: indigo;
+  text-align: left;
+}
 h3{
   color: indigo;
 }
 p.Text{
   width: 70%;
+  font-size: 20px;
+}
+p.Text2{
+  width: 70%;
+  font-size: 15px;
+}
+section.Body{
+  text-align: center;
   font-size: 20px;
 }
