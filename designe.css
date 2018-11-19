@@ -4,7 +4,7 @@ body{
   font-style:sherif;
 }
 ul{
-  list-style-type: square;
+  list-style-type: none;
 }
 h2 {
   color: indigo;
@@ -50,4 +50,11 @@ p.Text2{
 section.Body{
   text-align: center;
   font-size: 20px;
+}
+h1.Features{
+  color: indigo;
+  text-align: left;
+}
+table, th, td {
+    border: 1px solid black;
 }
