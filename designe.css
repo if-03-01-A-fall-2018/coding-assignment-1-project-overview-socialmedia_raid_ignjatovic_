@@ -55,6 +55,10 @@ h1.Features{
   color: indigo;
   text-align: left;
 }
+h1.History{
+  color: indigo;
+  text-align: left;
+}
 table, th, td {
     border: 1px solid black;
 }
