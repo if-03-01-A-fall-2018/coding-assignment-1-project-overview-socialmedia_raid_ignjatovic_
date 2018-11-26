@@ -39,6 +39,9 @@ h1.ProsAndContras{
 h3{
   color: indigo;
 }
+h4{
+  color: darkcyan;
+}
 p.Text{
   width: 70%;
   font-size: 20px;
