@@ -20,6 +20,11 @@ h1.Instagram{
   color: indigo;
   text-align: left;
 }
+h1.Whatsapp{
+  font-size: 50px;
+  color: indigo;
+  text-align: left;
+}
 h1.Snapchat{
   color: indigo;
   text-align: left;
@@ -43,7 +48,7 @@ h4{
   color: darkcyan;
 }
 p.Text{
-  width: 70%;
+  width: 80%;
   font-size: 20px;
 }
 p.Text2{
