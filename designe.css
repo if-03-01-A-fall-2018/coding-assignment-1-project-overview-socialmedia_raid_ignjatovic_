@@ -50,14 +50,24 @@ h4{
 p.Text{
   width: 80%;
   font-size: 20px;
+  margin-left: 20px;
 }
-p.Text2{
-  width: 70%;
-  font-size: 15px;
+p.Headers{
+  width: 80%;
+  font-size: 20px;
 }
-section.Body{
+h2.Headers{
+  margin-left: 20px;
+}
+
+section.BodyforStartingSite{
   text-align: center;
   font-size: 20px;
+  margin-top: 300px
+
+}
+section.Body2{
+  margin-left: 30px;
 }
 h1.Features{
   color: indigo;
