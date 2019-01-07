@@ -34,7 +34,20 @@ li a:hover:not(.active) {
 h1.header{
   color: indigo;
   font-size: 40px;
+  animation:color;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+
+
 }
+@keyframes color{
+  0%   {color:indigo; }
+ 25%  {color:blue; }
+ 50%  {color:lightblue; }
+ 75%  {color:blue; }
+ 100% {color:indigo; }
+}
+
 article.TextForHome{
   text-align: center;
   font-size: 20px;
