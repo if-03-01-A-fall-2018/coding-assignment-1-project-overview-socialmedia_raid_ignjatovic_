@@ -37,15 +37,13 @@ h1.header{
   animation:color;
   animation-duration: 10s;
   animation-iteration-count: infinite;
-
-
 }
 @keyframes color{
-  0%   {color:indigo; }
- 25%  {color:blue; }
- 50%  {color:lightblue; }
- 75%  {color:blue; }
- 100% {color:indigo; }
+  0%   {color:indigo;}
+ 25%  {color:darkblue;}
+ 50%  {color:blue;}
+ 75%  {color:darkblue;}
+ 100% {color:indigo;}
 }
 
 article.TextForHome{
