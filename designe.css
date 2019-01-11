@@ -1,6 +1,7 @@
 body{
   background-image: url(b.jpg);
   background-size: cover;
+  background-attachment: fixed;
   font-family:sans-serif;
 }
 ul.nav {
@@ -11,7 +12,9 @@ ul.nav {
   background-color: #333;
 }
 
-
+p.grey{
+  color: grey;
+}
 li {
   float: left;
 }
@@ -35,13 +38,13 @@ h1.header{
   color: indigo;
   font-size: 40px;
   animation:color;
-  animation-duration: 10s;
+  animation-duration: 4s;
   animation-iteration-count: infinite;
 }
 @keyframes color{
   0%   {color:indigo;}
  25%  {color:darkblue;}
- 50%  {color:blue;}
+ 50%  {color:dodgerblue;}
  75%  {color:darkblue;}
  100% {color:indigo;}
 }
