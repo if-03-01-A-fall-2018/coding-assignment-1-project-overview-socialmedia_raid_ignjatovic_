@@ -1,3 +1,26 @@
+h1.newHeader {
+  position: relative;
+  animation: mymove;
+  animation-fill-mode: forwards;
+  text-align: center;
+  animation-duration: 4s;
+  animation-iteration-count: 4s;
+}
+
+/* Safari 4.0 - 8.0 */
+
+@keyframes mymove {
+  from {top: 0px;}
+  to {top: 260px;}
+  0%   {color:white;}
+  10%   {color:white;}
+  33%  {color:lightblue;}
+  66%  {color:dodgerblue;}
+  100% {color:darkblue;}
+}
+
+
+
 body{
   background-image: url(b.jpg);
   background-size: cover;
