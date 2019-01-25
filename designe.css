@@ -20,7 +20,9 @@ h1.newHeader {
   100% {color:darkblue;}
 }
 
-
+li.about{
+  float: right;
+}
 
 body{
   background-image: url(b.jpg);
@@ -32,7 +34,7 @@ ul.nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  overflow: scroll;
+  overflow: auto;
   background-color: #333;
 }
 
