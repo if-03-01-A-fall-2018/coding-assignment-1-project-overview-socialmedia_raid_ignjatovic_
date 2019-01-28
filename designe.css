@@ -5,6 +5,7 @@ h1.newHeader {
   text-align: center;
   animation-duration: 4s;
   animation-iteration-count: 4s;
+  font-size: 50px;
 }
 
 /* Safari 4.0 - 8.0 */
@@ -20,6 +21,10 @@ h1.newHeader {
   100% {color:darkblue;}
 }
 
+li.about2{
+  float: right;
+  background-color: indigo;
+}
 li.about{
   float: right;
 }
